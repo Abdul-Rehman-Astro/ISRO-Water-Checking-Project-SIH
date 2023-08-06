@@ -1,2 +1,3 @@
 # ISRO-Water-Checking-Project-SIH
-Hi , I will add suff here
+
+![Example Image](https://raw.githubusercontent.com/yourusername/your-repo/main/images/example.jpg)
